@@ -1,2 +1,6 @@
 assignment.md
 unit-11-rubric-student.html
+node_modules
+package-lock.json
+db/*
+!db/.gitkeep
